@@ -1,0 +1,2 @@
+message = '我爱李子浩！'
+print(message)
